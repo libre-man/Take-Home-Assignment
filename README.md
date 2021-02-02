@@ -26,7 +26,7 @@ requirements and stretch goals.
 
 ## Requirements
 - [ ] After logging in, I can see all my courses.
-- [ ] Each course is rendered by it's own component.
+- [ ] Each course is rendered by its own component.
 - [ ] The data of a course is contained in a class.
 - [ ] For each course the amount of assignments is visible.
 - [ ] After logging in I don't need to login again when I reload.
@@ -36,7 +36,8 @@ Here are some ideas to extend beyond the MVP. Definitely don't implement all of
 these!
 
 - [ ] Handle errors, all errors in CodeGrade have the same format, see the
-      [documentation](docs.codegra.de/api) for information about this format.
+      [documentation](https://docs.codegra.de/api) for information about this
+      format.
 - [ ] Improve styling, because "het oog wil ook wat".
 - [ ] Also show the assignments for each course.
 - [ ] Make it possible to search/filter courses.
